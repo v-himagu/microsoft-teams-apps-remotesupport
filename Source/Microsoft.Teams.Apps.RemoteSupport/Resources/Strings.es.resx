@@ -118,23 +118,23 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CreatedOnText" xml:space="preserve">
-    <value>Created on </value>
+    <value>Creado en</value>
     <comment>Text to show in ME Thumbnail card</comment>
   </data>
   <data name="EditRequestTitle" xml:space="preserve">
-    <value>Edit request</value>
+    <value>Editar solicitud</value>
     <comment>Text to show on button</comment>
   </data>
   <data name="EditTicketActionText" xml:space="preserve">
-    <value>Edit</value>
+    <value>Editar</value>
     <comment>Text to show for edit in ticket detail card in 1:1 chat.</comment>
   </data>
   <data name="GoToOriginalThreadButtonText" xml:space="preserve">
-    <value>View details</value>
+    <value>Ver detalles</value>
     <comment>Text to show on button in End User ME .</comment>
   </data>
   <data name="InvalidTenantText" xml:space="preserve">
-    <value>Invalid tenant detected</value>
+    <value>Inquilina no válida detectada</value>
     <comment>Text to show if invalid tenant.</comment>
   </data>
   <data name="No" xml:space="preserve">
@@ -146,338 +146,338 @@
     <comment>Text to show on the radio button when selected normal.</comment>
   </data>
   <data name="RequestSubmittedContent" xml:space="preserve">
-    <value>For reference, here's what I shared with the on-call team.</value>
+    <value>Como referencia, esto es lo que compartí con el equipo de guardia.</value>
     <comment>Text to show on request submitted card.</comment>
   </data>
   <data name="RequestSubmittedText" xml:space="preserve">
-    <value>Request sent</value>
+    <value>Solicitud enviada</value>
     <comment>Text to show as tiltle of ticket detail card send in 1:1 chat with bot.</comment>
   </data>
   <data name="UpdateActionText" xml:space="preserve">
-    <value>Update</value>
+    <value>Actualizar</value>
     <comment>Text to show on the update button in adaptive card.</comment>
   </data>
   <data name="UrgentText" xml:space="preserve">
-    <value>Urgent</value>
+    <value>Urgente</value>
     <comment>Text to show on the radio button when selected urgent.</comment>
   </data>
   <data name="WithdrawConfirmation" xml:space="preserve">
-    <value>Are you sure you want to withdraw the request?</value>
+    <value>¿Estás segura de que deseas retirar la solicitud?</value>
     <comment>Text to show on withdraw request action in ticket detail card in 1:1 chat.</comment>
   </data>
   <data name="WithdrawRequestActionText" xml:space="preserve">
-    <value>Withdraw</value>
+    <value>Retirar</value>
     <comment>Text to show on withdraw button in Request submitted card.</comment>
   </data>
   <data name="WithdrawText" xml:space="preserve">
-    <value>Your request #{0} has been withdrawn. If other problem comes up, make a new request. </value>
+    <value>Su solicitud # {0} ha sido retirada. Si surge otro problema, realice una nueva solicitud.</value>
     <comment>Text to show End User Notification when requets is submitted.</comment>
   </data>
   <data name="Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>si</value>
     <comment>Text to show yes in confirmation card.</comment>
   </data>
   <data name="ContentText" xml:space="preserve">
-    <value>Get started now...</value>
+    <value>Empieza ahora...</value>
     <comment>Text to show in EndUser welcome card.</comment>
   </data>
   <data name="NewRequestBulletPoint" xml:space="preserve">
-    <value>* Hit the  **New request** button or type **New request** in this chat.</value>
+    <value>* Pulsa el botón ** Nueva solicitud ** o escribe ** Nueva solicitud ** en este chat.</value>
     <comment>Text to show command in a welcome card.</comment>
   </data>
   <data name="NewRequestButtonText" xml:space="preserve">
-    <value>New request</value>
+    <value>Nueva solicitud</value>
     <comment>Text to show in Edit task module,new request card.</comment>
   </data>
   <data name="WelcomeCardContent" xml:space="preserve">
-    <value>Facing a problem? I can ask the on-call team to look into it.</value>
+    <value>¿Tiene un problema? Puedo pedirle al equipo de guardia que lo investigue.</value>
     <comment>Text to show bot description in welcome card for EndUser.</comment>
   </data>
   <data name="WelcomeCardTitle" xml:space="preserve">
-    <value>Welcome!</value>
+    <value>¡Bienvenidas!</value>
     <comment>Text to show in welcome card.</comment>
   </data>
   <data name="WelcomeSubHeaderText" xml:space="preserve">
-    <value>Here's how it works:</value>
+    <value>Así es como funciona:</value>
     <comment>Text to show as a sub header in welcome card.</comment>
   </data>
   <data name="AssignToMeActionChoiceTitle" xml:space="preserve">
-    <value>Assign to me</value>
+    <value>Asignarme</value>
     <comment>Text to assign a ticket to himself.</comment>
   </data>
   <data name="ChangeStatusButtonText" xml:space="preserve">
-    <value>Change status</value>
+    <value>Cambiar Estado</value>
     <comment>Text to show change status on button.</comment>
   </data>
   <data name="ChatTextButton" xml:space="preserve">
-    <value>Chat</value>
+    <value>Charla</value>
     <comment>Text to show chat button for EndUser.</comment>
   </data>
   <data name="CloseActionChoiceTitle" xml:space="preserve">
-    <value>Close</value>
+    <value>Cerca</value>
     <comment>Text to show Close action in Change status section.</comment>
   </data>
   <data name="FirstObservedText" xml:space="preserve">
-    <value>First observed on</value>
+    <value>Observado por primera vez en</value>
     <comment>Text to shown title for First observed in ticket card.</comment>
   </data>
   <data name="ReopenActionChoiceTitle" xml:space="preserve">
-    <value>Reopen</value>
+    <value>Reabrir</value>
     <comment>Text to show in change status section in SME request details card.</comment>
   </data>
   <data name="ReopenAssignToMeActionChoiceTitle" xml:space="preserve">
-    <value>Reopen and assign to me.</value>
+    <value>Vuelva a abrir y asigneme.</value>
     <comment>Text to show in change status section in SME request details card.</comment>
   </data>
   <data name="RequestDetailsText" xml:space="preserve">
-    <value>Request details</value>
+    <value>Pedir detalles</value>
     <comment>Text to show in Request details card for Expert Team</comment>
   </data>
   <data name="SeverityButtonText" xml:space="preserve">
-    <value>Change severity</value>
+    <value>Cambiar la gravedad</value>
     <comment>Text to show severity on button in request details card.</comment>
   </data>
   <data name="SmeRequestDetailText" xml:space="preserve">
-    <value>{0} is requesting support.</value>
+    <value>{0} solicita asistencia.</value>
     <comment>Text to show under request submitted card to SME.</comment>
   </data>
   <data name="SmeUserChatMessage" xml:space="preserve">
-    <value>RE : Support request {0}.</value>
+    <value>RE: Solicitud de asistencia {0}.</value>
     <comment>Text to show when SME user try to chat with Enduser.</comment>
   </data>
   <data name="UnassignActionChoiceTitle" xml:space="preserve">
-    <value>Unassign</value>
+    <value>Anular asignación</value>
     <comment>Text to show in change status dropdown choice in request details card.</comment>
   </data>
   <data name="EndUserNotificationText" xml:space="preserve">
-    <value>The support team has received your request #{0}.</value>
+    <value>El equipo de asistencia ha recibido su solicitud n.º {0}.</value>
     <comment>Text to show EndUser notification when request is submitted.</comment>
   </data>
   <data name="SmeAssignedStatus" xml:space="preserve">
-    <value>This request is now assigned to {0}.</value>
+    <value>Esta solicitud ahora está asignada a {0}.</value>
     <comment>Text to show notification as assigned request is closed to SME Users.</comment>
   </data>
   <data name="SmeClosedStatus" xml:space="preserve">
-    <value>Status changed to resolved by {0}.</value>
+    <value>El estado cambió a resuelto por {0}.</value>
     <comment>Text to show notification as request is closed to SME Users.</comment>
   </data>
   <data name="SmeSeverityStatus" xml:space="preserve">
-    <value>Severity changed to {0} by {1}.</value>
+    <value>La gravedad cambió a {0} en {1}.</value>
     <comment>Text to show notification when request changes severity from SME Users.</comment>
   </data>
   <data name="SmeUnassignedStatus" xml:space="preserve">
-    <value>Status changed to unassigned by {0}.</value>
+    <value>El estado cambió a no asignado por {0}.</value>
     <comment>Text to show notification when request is unassigned to SME Users.</comment>
   </data>
   <data name="ManageExpertsActionText" xml:space="preserve">
-    <value>Manage</value>
+    <value>Gestionar</value>
     <comment>Text to show on button</comment>
   </data>
   <data name="OnCallSMEDetailCardText" xml:space="preserve">
-    <value>Here's the current on-call team. Click **Manage** to change which specialists are on the team.</value>
+    <value>Aquí está el equipo de guardia actual. Haga clic en ** Administrar ** para cambiar qué especialistas están en el equipo.</value>
     <comment>On call SME detail card text.</comment>
   </data>
   <data name="UpdateHistoryActionText" xml:space="preserve">
-    <value>View history</value>
+    <value>Ver historial</value>
     <comment>Text to show on button</comment>
   </data>
   <data name="DatetimeTitleText" xml:space="preserve">
-    <value>Last updated on</value>
+    <value>Ultima actualización en</value>
     <comment>Text to show on update history card title</comment>
   </data>
   <data name="NameTitleText" xml:space="preserve">
-    <value>Name</value>
+    <value>Nombre</value>
     <comment>Text to show on update history card title</comment>
   </data>
   <data name="NoOnCallExpertsConfiguredText" xml:space="preserve">
-    <value>No one is on call right now. Select **Manage** to add specialists to the on-call team.</value>
+    <value>Nadie está de guardia en este momento. Seleccione ** Administrar ** para agregar especialistas al equipo de guardia.</value>
     <comment>Text to show when no on call support experts are configured</comment>
   </data>
   <data name="ManageExpertsTitle" xml:space="preserve">
-    <value>Manage list of on-call experts here</value>
+    <value>Administra la lista de expertas de guardia aquí</value>
     <comment>Text to show in manage experts page shown in task module </comment>
   </data>
   <data name="NoUpdateHistoryText" xml:space="preserve">
-    <value>There is no on-call history available.</value>
+    <value>No hay un historial de llamadas disponible.</value>
     <comment>Text to show when no update history is available.</comment>
   </data>
   <data name="ErrorMessage" xml:space="preserve">
-    <value>Something went wrong. Try again in a few minutes.</value>
+    <value>Algo salió mal. Vuelve a intentarlo en unos minutos.</value>
     <comment>Generic error message.</comment>
   </data>
   <data name="AssignedTicketUserNotification" xml:space="preserve">
-    <value>The support team picked up your request #{0}. A specialist will contact you soon.</value>
+    <value>El equipo de asistencia recibió su solicitud n.º {0}. Un especialista se pondrá en contacto contigo pronto.</value>
     <comment>Text to show notification for user when ticket is assigned to expert team.</comment>
   </data>
   <data name="ClosedTicketUserNotification" xml:space="preserve">
-    <value>This request with ticket number #{0} is resolved. Make a new request if you still need help.</value>
+    <value>Esta solicitud con el número de ticket # {0} está resuelta. Realice una nueva solicitud si aún necesita ayuda.</value>
     <comment>Text to show user notification message when ticket is closed by Expert Team.</comment>
   </data>
   <data name="EscalateButtonText" xml:space="preserve">
-    <value>Escalate</value>
+    <value>Escalar</value>
     <comment>Text to show on button in EndUser ME.</comment>
   </data>
   <data name="ReopenedTicketUserNotification" xml:space="preserve">
-    <value>We're changing who works on your request. We'll update you soon.</value>
+    <value>Estamos cambiando quién trabaja según su solicitud. Lo actualizaremos pronto.</value>
     <comment>Text to show user when status of ticket is reopened by Expert team member.</comment>
   </data>
   <data name="RequestActionTicketUserNotification" xml:space="preserve">
-    <value>The support team changed the severity level on your request #{0}.</value>
+    <value>El equipo de asistencia cambió el nivel de gravedad de su solicitud n.º {0}.</value>
     <comment>Text to show user when severity of ticket is changed by Expert team member.</comment>
   </data>
   <data name="DateValidationText" xml:space="preserve">
-    <value>The date selected must be in the past</value>
+    <value>La fecha seleccionada debe ser anterior.</value>
     <comment>Text to show if issue date is greater than enter date of is empty.</comment>
   </data>
   <data name="DescriptionValidationText" xml:space="preserve">
-    <value>Description is required</value>
+    <value>Se requiere descripción</value>
     <comment>Text to show if description field is empty.</comment>
   </data>
   <data name="TitleValidationText" xml:space="preserve">
-    <value>Input is required</value>
+    <value>Se requiere entrada</value>
     <comment>Text to show if title field is empty.</comment>
   </data>
   <data name="GroupName" xml:space="preserve">
-    <value>Request no {0}- attention required</value>
+    <value>Solicitar no {0}: se requiere atención</value>
     <comment>Text to use as a group name when group is created.</comment>
   </data>
   <data name="MessageContent" xml:space="preserve">
-    <value>Hi Team, I need immediate support for request created by {0}. Can you help?</value>
+    <value>Hola, equipo: Necesito asistencia inmediata para la solicitud creada por {0}. ¿Puede usted ayudar?</value>
     <comment>Text to show when user clicks on chat button.</comment>
   </data>
   <data name="InvalidTeamText" xml:space="preserve">
-    <value>This bot has not been added for this team</value>
+    <value>Este bot no se ha agregado para este equipo</value>
     <comment>Text to show validation in ME when it is not a valid team to open request.</comment>
   </data>
   <data name="ExpertNameTitle" xml:space="preserve">
-    <value>Select a specialist</value>
+    <value>Seleccione un especialista</value>
     <comment>Text to show on manage experts page</comment>
   </data>
   <data name="AddButtonText" xml:space="preserve">
-    <value>Add</value>
+    <value>Añadir</value>
     <comment>Text to show on add button.</comment>
   </data>
   <data name="ExpertListPlaceHolderText" xml:space="preserve">
-    <value>Enter one or more names or emails</value>
+    <value>Ingrese uno o más nombres o correos electrónicos</value>
     <comment>Text to show in expert list dropdown placeholder.</comment>
   </data>
   <data name="ExpertList" xml:space="preserve">
-    <value>Expert List</value>
+    <value>Lista de expertos</value>
     <comment>Text to show on list of experts from command list.</comment>
   </data>
   <data name="ExpertListTitle" xml:space="preserve">
-    <value>Current on-call team</value>
+    <value>Equipo de guardia actual</value>
     <comment>Text to show on manage experts page.</comment>
   </data>
   <data name="NoMatchesFoundText" xml:space="preserve">
-    <value>We couldn't find any matches.</value>
+    <value>No pudimos encontrar coincidencias.</value>
     <comment>Text to show when there are no matches to condition.</comment>
   </data>
   <data name="SaveButtonText" xml:space="preserve">
-    <value>Save</value>
+    <value>Salvar</value>
     <comment>Text to show on save button.</comment>
   </data>
   <data name="OnCallExpertMentionText" xml:space="preserve">
-    <value>The on-call experts list has been modified. {0} have been added.</value>
+    <value>Se ha modificado la lista de expertos de guardia. Se han agregado {0}.</value>
     <comment>Text to show when on call expert list is modified.</comment>
   </data>
   <data name="MaxOnCallExpertsAllowedText" xml:space="preserve">
-    <value>A maximum of 15 people can be added to the list with a min of 0</value>
+    <value>Se puede agregar un máximo de 15 personas a la lista con un mínimo de 0</value>
     <comment>Text to show for validation message when on call experts selected are more than 15.</comment>
   </data>
   <data name="ExperListBulletPoint" xml:space="preserve">
-    <value>* Hit **Current on-call team** button to set up on call experts from this team.</value>
+    <value>* Pulse el botón ** Equipo de guardia actual ** para configurar expertos en llamadas de este equipo.</value>
     <comment>Text to show command in a welcome Team card.</comment>
   </data>
   <data name="SmeEditNotificationText" xml:space="preserve">
-    <value>This request is modified by {0}.</value>
+    <value>{0} modifica esta solicitud.</value>
     <comment>Text to show when user edits the request.</comment>
   </data>
   <data name="SmeWithdrawNotificationText" xml:space="preserve">
-    <value>This request is withdrawn by {0}.</value>
+    <value>{0} retira esta solicitud.</value>
     <comment>Text to show for SME user when withdrawn.</comment>
   </data>
   <data name="RequestUpdatedText" xml:space="preserve">
-    <value>Request updated</value>
+    <value>Solicitud actualizada</value>
     <comment>Text to show as title of ticket edited card send in 1:1 chat with bot.</comment>
   </data>
   <data name="WelcomeTeamCardContent" xml:space="preserve">
-    <value>Hello, I can help you provide support to people who interact with me and need more assistance.</value>
+    <value>Hola, puedo ayudarlo a brindar apoyo a las personas que interactúan conmigo y necesitan más ayuda.</value>
     <comment>Text to show bot description in welcome card for Sme.</comment>
   </data>
   <data name="ClosedErrorMessage" xml:space="preserve">
-    <value>This request is closed and cannot be edited</value>
+    <value>Esta solicitud está cerrada y no se puede editar</value>
     <comment>Text to show when user want to edit closed request.</comment>
   </data>
   <data name="DescriptionText" xml:space="preserve">
-    <value>Details</value>
+    <value>Detalles</value>
     <comment>Text to show description in request submitted card.</comment>
   </data>
   <data name="RequestNumberText" xml:space="preserve">
-    <value>Request number</value>
+    <value>Número de solicitud</value>
     <comment>Text to show as request number in new request card.</comment>
   </data>
   <data name="RequestTypeText" xml:space="preserve">
-    <value>Request type</value>
+    <value>Tipo de solicitud</value>
     <comment>Text to show request type in request submitted card.</comment>
   </data>
   <data name="TitleDisplayText" xml:space="preserve">
-    <value>What is it about?</value>
+    <value>¿De qué se trata?</value>
     <comment>Text to show as title text in new request card.</comment>
   </data>
   <data name="WithdrawErrorMessage" xml:space="preserve">
-    <value>Only active requests can be withdrawn.</value>
+    <value>Solo se pueden retirar las solicitudes activas.</value>
     <comment>Text to show when user want to withdraw closed request.</comment>
   </data>
   <data name="StatusCheckBulletPoint" xml:space="preserve">
-    <value>* To check status, click the small version of my icon near your message formatting options.</value>
+    <value>* Para verificar el estado, haga clic en la versión pequeña de mi ícono cerca de las opciones de formato de su mensaje.</value>
     <comment>Text to show in welcome card for know user how this bot hepls.</comment>
   </data>
   <data name="AzureStorageErrorText" xml:space="preserve">
-    <value>Something went wrong while saving your request. Please try again in few minutes.</value>
+    <value>Se produjo un error al guardar su solicitud. Vuelva a intentarlo en unos minutos.</value>
     <comment>Text to show error when the request is not save in the azure storage.</comment>
   </data>
   <data name="CancelButtonText" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancelar</value>
     <comment>Text to show for button action.</comment>
   </data>
   <data name="DesciptionPlaceHolderText" xml:space="preserve">
-    <value>Describe the problem</value>
+    <value>Describe el problema</value>
     <comment>Text to show in desciption place holder.</comment>
   </data>
   <data name="NewRequestTitle" xml:space="preserve">
-    <value>New request</value>
+    <value>Nueva solicitud</value>
     <comment>Text to show in new request card.</comment>
   </data>
   <data name="SendRequestButtonText" xml:space="preserve">
-    <value>Send request</value>
+    <value>Enviar petición</value>
     <comment>Text to show for button action.</comment>
   </data>
   <data name="TellUsAboutProblemText" xml:space="preserve">
-    <value>Tell us about the problem</value>
+    <value>Cuéntanos sobre el problema</value>
     <comment>Text to show in card.</comment>
   </data>
   <data name="TitlePlaceHolderText" xml:space="preserve">
-    <value>Type here...</value>
+    <value>Escriba aquí...</value>
     <comment>Text to show in title place holder.</comment>
   </data>
   <data name="SessionExpired" xml:space="preserve">
-    <value>Your session has expired. Please sign in again to proceed.</value>
+    <value>Su sesión ha caducado. Vuelve a iniciar sesión para continuar.</value>
     <comment>Text to show when user session is expired.</comment>
   </data>
   <data name="UnauthorizedAccess" xml:space="preserve">
-    <value>Unauthorized access</value>
+    <value>Acceso no autorizado</value>
     <comment>Text to show when user is not authenticated.</comment>
   </data>
   <data name="OnCallListUpdateMessage" xml:space="preserve">
-    <value>The on-call experts list is modified.</value>
+    <value>Se modifica la lista de expertos de guardia.</value>
   </data>
   <data name="RequestStatusText" xml:space="preserve">
-    <value>Status</value>
+    <value>Estado</value>
     <comment>Text to show ticket current status.</comment>
   </data>
   <data name="TeamRequestBulletPoint" xml:space="preserve">
-    <value>* To check requests assignements, click the small version of my icon near your message formatting options.</value>
+    <value>* Para verificar asignaciones de solicitudes, haga clic en la versión pequeña de mi ícono cerca de las opciones de formato de su mensaje.</value>
     <comment>Text to show as a bullet point in team welcome card.</comment>
   </data>
 </root>

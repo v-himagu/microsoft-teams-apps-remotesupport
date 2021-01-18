@@ -268,6 +268,15 @@ namespace Microsoft.Teams.Apps.RemoteSupport {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Expert List.
+        /// </summary>
+        public static string ExpertList {
+            get {
+                return ResourceManager.GetString("ExpertList", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Enter one or more names or emails.
         /// </summary>
         public static string ExpertListPlaceHolderText {
